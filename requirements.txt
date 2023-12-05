@@ -1,0 +1,7 @@
+openai==0.28
+pandas
+tiktoken
+gradio
+scipy
+keras
+tensorflow

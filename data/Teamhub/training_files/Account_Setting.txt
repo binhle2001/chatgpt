@@ -65,21 +65,5 @@ your Klever Account with.
 
 You're done! You can now log in to Klever with your Google account!
 
-# Set up your Slack Notification
 
-Notification from Klever can also be received on Slack.
-
- **To enable to slack notification:**
-
-  1. In **Slack** , Select your profile picture at the right of the navigation, then select **Profile**.
-
-  2. Select **...** button then select **Copy member ID** from dropdown menu.
-
-  3. In **Klever** , Select your profile picture at the right of the navigation, then select **Settings**.
-
-  4. Paste the copied member ID in **Slack member ID** field details under **User profile** tab
-
-  5. Select **Save changes**
-
-Now you will receive Klever notification in Slack as well.
 
