@@ -5,3 +5,4 @@ gradio
 scipy
 keras
 tensorflow
+scipy
