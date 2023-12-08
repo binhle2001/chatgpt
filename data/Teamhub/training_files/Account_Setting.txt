@@ -1,0 +1,85 @@
+Title: Account Setting
+URL: https://vi.wikipedia.org/wiki/V%C5%A9_kh%C3%AD_h%E1%BA%A1t_nh%C3%A2n
+Language: English
+-----
+**_User profile, Preference, Security options - customize your Klever account
+settings to best suit your personal workflow. We'll explain all of your
+account options and how to change them._**
+
+* * *
+
+# How to change your User profile
+
+  1. Click in your avatar at the top right  
+![](https://tokyotechies-
+api.kleversuite.net/web/content/ir.attachment/17904/datas)
+
+  2. Input your Name and select an avatar  
+![](https://tokyotechies-
+api.kleversuite.net/web/content/ir.attachment/17906/datas)
+
+  3. Click "Save changes" to apply new changes
+
+# How to adjust Preferences
+
+  1. Click in your avatar at the top right  
+![](https://tokyotechies-
+api.kleversuite.net/web/content/ir.attachment/17904/datas)
+
+  2. Click Preferences  
+![](https://tokyotechies-
+api.kleversuite.net/web/content/ir.attachment/17910/datas)
+
+  3. After adjusting Preferences, click "Save changes"
+
+# How to change your password
+
+  1. Click in your avatar at the top right  
+![](https://tokyotechies-
+api.kleversuite.net/web/content/ir.attachment/17904/datas)
+
+  2. Click Security  
+![](https://tokyotechies-
+api.kleversuite.net/web/content/ir.attachment/17913/datas)
+
+  3. In this popup, input the current password and the new password
+
+  4. Click "Save changes"
+
+# Bind your Klever account with your Google Account
+
+One reason you should connect your Klever account with your Google Account is
+so that you can log in to Klever with your Google account instead of typing
+your email and password every time you want to log in.
+
+ **To bind your Google account to Klever:**
+
+  1. Select your profile picture at the right of the navigation, then select **Settings**.
+
+  2. Select **Security** tab on the left side of the pop-up
+
+  3. Select **Connect Google Account** button
+
+Another pop up would show where you choose which google account to connect
+your Klever Account with.
+
+You're done! You can now log in to Klever with your Google account!
+
+# Set up your Slack Notification
+
+Notification from Klever can also be received on Slack.
+
+ **To enable to slack notification:**
+
+  1. In **Slack** , Select your profile picture at the right of the navigation, then select **Profile**.
+
+  2. Select **...** button then select **Copy member ID** from dropdown menu.
+
+  3. In **Klever** , Select your profile picture at the right of the navigation, then select **Settings**.
+
+  4. Paste the copied member ID in **Slack member ID** field details under **User profile** tab
+
+  5. Select **Save changes**
+
+Now you will receive Klever notification in Slack as well.
+
