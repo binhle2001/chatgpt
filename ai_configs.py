@@ -78,3 +78,5 @@ if SERVICE in SERVICES:
         raise ValueError("MODEL_NAME must be in MODEL_NAMES")
 else:
     raise ValueError("SERVICE must be in SERVICES")
+
+ERROR_MESSAGE = "Sorry, I cannot answer your request"

@@ -130,7 +130,11 @@ def get_response(
     return response_message, message
 
 message = "askjdfaqskfaqsfn fiqfoiqw fiqwfhoqiw rjfqwjrqw"
-get_response(message)
+response, _ = get_response(
+            query=message,
+            df=embedding_data,
+            model="gpt-3.5-turbo",
+        )
 
 # Code for getting chatbot's response ends here. Below code is for UI only.
 def format_response(responses: dict):
