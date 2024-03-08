@@ -26,4 +26,7 @@ python embedding.py
 uvicorn main:app --host 0.0.0.0 --port your_port --reload
 ```
 # 4. Call API
-- Example: Call API 
+- Example: Call API
+  ```
+  http://localhost:your_port/khanhdo/chat
+  ```
