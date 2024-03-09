@@ -1,3 +1,7 @@
+# 0. Clone repository
+```
+  git clone https://github.com/binhle2001/chatgpt.git
+```
 # 1. Prepare data
 ## Create a txt file following this format:
 ```
